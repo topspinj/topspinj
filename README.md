@@ -1,11 +1,8 @@
 ### Hi there ✨ 
 
-My name is Jill and I'm a data scientist who loves to code. 
+My name is Jill and I'm a data scientist who loves to code.
 
-Currently working in the e-commerce space @ Shopify 🛍️.
-
-You can reach me at `cates dot jill at gmail dot com`. 
-
+Check out my substack, [House of Data](https://houseofdata.substack.com/). 🙃
 
 <!--
 **topspinj/topspinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
