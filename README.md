@@ -2,7 +2,7 @@
 
 My name is Jill and I'm a data scientist who loves to code. 
 
-I'm working in the e-commerce space @ Shopify 🛍️.
+Currently working in the e-commerce space @ Shopify 🛍️.
 
 You can reach me at `cates dot jill at gmail dot com`. 
 
