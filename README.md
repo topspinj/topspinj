@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there ✨ 
+
+My name is Jill and I'm a data scientist who loves to code. 
+
+I'm working in the e-commerce space @ Shopify 🛍️.
+
+You can reach me at `cates dot jill at gmail dot com`. 
+
 
 <!--
 **topspinj/topspinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
