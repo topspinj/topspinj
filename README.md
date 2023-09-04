@@ -2,8 +2,6 @@
 
 My name is Jill and I'm a data scientist who loves to code.
 
-Check out my substack, [House of Data](https://houseofdata.substack.com/).
-
 <!--
 **topspinj/topspinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
