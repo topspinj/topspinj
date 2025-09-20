@@ -2,8 +2,7 @@
 
 My name is Jill. I'm a software engineer turned data scientist. 
 
-Currently exploring new AI tooling - excited to share my learnings along the way! 
-
+Recently started a new blog, [Normally Distributed](https://www.normallydistributed.dev/). Let me know what you think! 🙃
 <!--
 **topspinj/topspinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
